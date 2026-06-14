@@ -1,3 +1,3 @@
 # XMLToolKit
 
-XML toolkit for the chain.
+XML toolkit for chain-based workflows.
